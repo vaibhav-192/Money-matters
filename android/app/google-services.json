@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1056953375185",
+    "project_id": "money-matters-bed98",
+    "storage_bucket": "money-matters-bed98.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056953375185:android:d4bab2618c57da6002e8f0",
+        "android_client_info": {
+          "package_name": "com.example.money_matters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056953375185-fvjn7ob2127sm15e4tvhkk3l6aiiu80u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.money_matters",
+            "certificate_hash": "296850778458dbdab782d764d3d94bea1d2a66f3"
+          }
+        },
+        {
+          "client_id": "1056953375185-11gufqkbr4rttd7cl9t03i6ucm6rgnma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqLohth2IS1hWb0FKa04I0kM4DEIlzCwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056953375185-11gufqkbr4rttd7cl9t03i6ucm6rgnma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1056953375185-ecp2r8fs8oeiqtjn8mqllri607a78c6p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.moneyMatters"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
